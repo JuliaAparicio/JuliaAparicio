@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Iniciei na tecnologia em 2025<br>📚 Estudo Ciência da Computação<br>🎯 Moro em São Paulo</p>
+<p align="left">✨ Started my journey in technology in 2025<br>📚 Computer Science student<br>📍 Based in São Paulo</p>
 
 ###
 
